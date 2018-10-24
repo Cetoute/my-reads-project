@@ -6,7 +6,7 @@
  
  
 ## To get started developing right away:
-* git clone https://github.com/ 
+* git clone https://github.com/Cetoute/my-reads-project.git
 * cd my-reads-project
 * install all project dependencies with npm install
 * start the development server with npm start
